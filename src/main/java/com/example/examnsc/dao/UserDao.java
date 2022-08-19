@@ -1,7 +1,5 @@
 package com.example.examnsc.dao;
-
-
-
+//by : Huy
 import com.example.examnsc.model.User;
 import com.example.examnsc.utils.ConnectionUtils;
 

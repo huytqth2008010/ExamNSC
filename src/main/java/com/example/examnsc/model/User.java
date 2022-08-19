@@ -1,5 +1,5 @@
 package com.example.examnsc.model;
-
+//by : Huy
 public class User {
 
     private String username;

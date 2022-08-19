@@ -1,7 +1,5 @@
 package com.example.examnsc.servlet;
-
-
-
+//by : Huy
 import com.example.examnsc.dao.UserDao;
 import com.example.examnsc.model.User;
 
